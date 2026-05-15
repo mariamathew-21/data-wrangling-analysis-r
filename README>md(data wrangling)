@@ -1,0 +1,20 @@
+# Data Wrangling and Exploratory Analysis in R
+
+## Project Overview
+This project involved sourcing open data from publicly available datasets, importing the data into R, cleaning and transforming raw data, and conducting exploratory analysis.
+
+## Tasks Performed
+- Imported external datasets into R
+- Cleaned missing/inconsistent values
+- Performed data transformation
+- Conducted exploratory analysis
+- Generated visualisations and summary insights
+
+## Tools Used
+- R
+- RStudio
+- Data Wrangling
+- Data Visualization
+
+## Outcome
+Developed practical experience in preparing raw datasets for analysis and identifying patterns through exploratory techniques.
